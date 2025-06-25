@@ -36,5 +36,5 @@ Our platform connects you with verified, experienced doctors across various spec
 - Open with VS Code.
 - Navigate to the file.
 - Run : npm i
-- Run : np run dev
+- Run : npm run dev
 
