@@ -20,6 +20,13 @@ Our platform connects you with verified, experienced doctors across various spec
 - ⏳ Integrated a loading spinner for better UX during data fetch
 - 📱 Fully responsive design for all devices
 
+- # Technologies
+- HTML, CSS
+- Tailwind + Daisy UI
+- React JS
+- Firebase
+
+
 ## NPM Packages:
 - "@tailwindcss/vite": "^4.1.4",
 - "react": "^19.0.0",
