@@ -4,6 +4,12 @@ Our platform connects you with verified, experienced doctors across various spec
 
 ## Live Link: https://chic-sunflower-9c8560.netlify.app/
 
+![Image](https://github.com/user-attachments/assets/42ee2e67-5fca-4f3f-9e28-8079e26209c6)
+
+![Image](https://github.com/user-attachments/assets/7d6c0620-a001-47aa-869a-0094efc560a8)
+
+![Image](https://github.com/user-attachments/assets/fd07f807-d14b-4db1-972d-06c3852a6684)
+
 ## Main features
 - 📦 Created and used fake data APIs to simulate real-world scenarios
 - 🗂 Local Storage integration for saving & managing user bookings
@@ -25,4 +31,10 @@ Our platform connects you with verified, experienced doctors across various spec
 - "recharts": "^2.15.3",
 - "tailwindcss": "^4.1.4"
 
+## How to Run Locally:
+- Download or clone the repo
+- Open with VS Code.
+- Navigate to the file.
+- Run : npm i
+- Run : np run dev
 
