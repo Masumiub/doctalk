@@ -5,13 +5,24 @@ Our platform connects you with verified, experienced doctors across various spec
 ## Live Link: https://chic-sunflower-9c8560.netlify.app/
 
 ## Main features
-📦 Created and used fake data APIs to simulate real-world scenarios
-🗂 Local Storage integration for saving & managing user bookings
-🔁 Implemented React Router for smooth navigation
-🗑️ Enabled deletion and viewing of stored appointment data
-🔔 Added React Toastify for user feedback & alerts
-🔁 Implemented React Charts
-⏳ Integrated a loading spinner for better UX during data fetch
-📱 Fully responsive design for all devices
+- 📦 Created and used fake data APIs to simulate real-world scenarios
+- 🗂 Local Storage integration for saving & managing user bookings
+- 🔁 Implemented React Router for smooth navigation
+- 🗑️ Enabled deletion and viewing of stored appointment data
+- 🔔 Added React Toastify for user feedback & alerts
+- 🔁 Implemented React Charts
+- ⏳ Integrated a loading spinner for better UX during data fetch
+- 📱 Fully responsive design for all devices
+
+## NPM Packages:
+- "@tailwindcss/vite": "^4.1.4",
+- "react": "^19.0.0",
+- "react-countup": "^6.5.3",
+- "react-dom": "^19.0.0",
+- "react-icons": "^5.5.0",
+- "react-router": "^7.5.1",
+- "react-toastify": "^11.0.5",
+- "recharts": "^2.15.3",
+- "tailwindcss": "^4.1.4"
 
 
