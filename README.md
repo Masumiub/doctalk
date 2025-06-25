@@ -1,15 +1,17 @@
+# doctalk
+Dependable Care, Backed by Trusted Professionals.
+Our platform connects you with verified, experienced doctors across various specialties — all at your convenience. Whether it's a routine checkup or urgent consultation, book appointments in minutes and receive quality care you can trust.
 
 ## Live Link: https://chic-sunflower-9c8560.netlify.app/
 
-# React + Vite
+## Main features
+📦 Created and used fake data APIs to simulate real-world scenarios
+🗂 Local Storage integration for saving & managing user bookings
+🔁 Implemented React Router for smooth navigation
+🗑️ Enabled deletion and viewing of stored appointment data
+🔔 Added React Toastify for user feedback & alerts
+🔁 Implemented React Charts
+⏳ Integrated a loading spinner for better UX during data fetch
+📱 Fully responsive design for all devices
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
