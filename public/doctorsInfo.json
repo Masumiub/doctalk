@@ -1,0 +1,268 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.squarehospital.com/storage/images/1674367271.png",
+    "name": "Prof. Dr. Arif Salam Khan",
+    "education": "MBBS, FCPS",
+    "speciality": "Pediatrician",
+    "experience": "8 years",
+    "registration_number": "REG10001",
+    "designation": "Professor",
+    "workplace": "Sunrise Clinic",
+    "fee": 68,
+    "availability_section": [
+      "Wednesday",
+      "Sunday",
+      "Monday",
+      "Friday",
+      "Saturday"
+    ],
+    "available": true
+  },
+  {
+    "id": 2,
+    "image": "https://www.squarehospital.com/storage/images/1521004957Dr_Yasin_(4).JPG",
+    "name": "Dr. Mohammad Yasin Chowdhury",
+    "education": "MBBS, FCPS",
+    "speciality": "Neurologist",
+    "experience": "17 years",
+    "registration_number": "REG10002",
+    "designation": "Senior Consultant",
+    "workplace": "Medico Center",
+    "fee": 38,
+    "availability_section": [
+      "Tuesday",
+      "Friday",
+      "Sunday"
+    ],
+    "available": true
+  },
+  {
+    "id": 3,
+    "image": "https://www.squarehospital.com/storage/images/1543208339.jpg",
+    "name": "Dr. Mohammad Israt Faisal",
+    "education": "MBBS, FCPS",
+    "speciality": "Orthopedic",
+    "experience": "8 years",
+    "registration_number": "REG10003",
+    "designation": "Consultant",
+    "workplace": "Medico Center",
+    "fee": 35,
+    "availability_section": [
+      "Wednesday",
+      "Tuesday",
+      "Sunday",
+      "Saturday"
+    ],
+    "available": true
+  },
+  {
+    "id": 4,
+    "image": "https://www.squarehospital.com/storage/images/1674367212.png",
+    "name": "Dr. Tanny Tarafder",
+    "education": "MBBS, FCPS",
+    "speciality": "Psychiatrist",
+    "experience": "7 years",
+    "registration_number": "REG10004",
+    "designation": "Consultant",
+    "workplace": "Greenland Hospital",
+    "fee": 42,
+    "availability_section": [
+      "Friday",
+      "Thursday",
+      "Monday",
+      "Wednesday",
+      "Tuesday"
+    ],
+    "available": true
+  },
+  {
+    "id": 5,
+    "image": "https://www.squarehospital.com/storage/images/1674367360.png",
+    "name": "Prof. Dr. Mohammad Abdullah",
+    "education": "MBBS, FCPS",
+    "speciality": "Orthopedic",
+    "experience": "9 years",
+    "registration_number": "REG10005",
+    "designation": "Consultant",
+    "workplace": "HealthCare Plus",
+    "fee": 40,
+    "availability_section": [
+      "Monday",
+      "Saturday",
+      "Sunday",
+      "Friday"
+    ],
+    "available": true
+  },
+  {
+    "id": 6,
+    "image": "https://www.squarehospital.com/storage/images/1680586547.png",
+    "name": "Dr. Saikat Das Gupta",
+    "education": "MBBS, FCPS",
+    "speciality": "Neurologist",
+    "experience": "10 years",
+    "registration_number": "REG10006",
+    "designation": "Medical Officer",
+    "workplace": "Sunrise Clinic",
+    "fee": 65,
+    "availability_section": [
+      "Monday",
+      "Wednesday",
+      "Saturday",
+      "Thursday"
+    ],
+    "available": true
+  },
+  {
+    "id": 7,
+    "image": "https://www.squarehospital.com/storage/images/1714882964.png",
+    "name": "Dr. Md. Sultan Sarwar Parvez",
+    "education": "MBBS, FCPS",
+    "speciality": "Dermatologist",
+    "experience": "7 years",
+    "registration_number": "REG10007",
+    "designation": "Medical Officer",
+    "workplace": "Sunrise Clinic",
+    "fee": 88,
+    "availability_section": [
+      "Saturday",
+      "Sunday",
+      "Thursday",
+      "Tuesday",
+      "Wednesday"
+    ],
+    "available": true
+  },
+  {
+    "id": 8,
+    "image": "https://www.squarehospital.com/storage/images/1714882249.png",
+    "name": "Dr. Prasanta K Chanda",
+    "education": "MBBS, FCPS",
+    "speciality": "Orthopedic",
+    "experience": "7 years",
+    "registration_number": "REG10008",
+    "designation": "Assistant Professor",
+    "workplace": "Medico Center",
+    "fee": 51,
+    "availability_section": [
+      "Sunday",
+      "Saturday",
+      "Friday"
+    ],
+    "available": false
+  },
+  {
+    "id": 9,
+    "image": "https://www.squarehospital.com/storage/images/1699177751.png",
+    "name": "Dr. Md. Mesbah Uddin",
+    "education": "MBBS, FCPS",
+    "speciality": "Orthopedic",
+    "experience": "9 years",
+    "registration_number": "REG10009",
+    "designation": "Professor",
+    "workplace": "HealthCare Plus",
+    "fee": 78,
+    "availability_section": [
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "available": false
+  },
+  {
+    "id": 10,
+    "image": "https://www.squarehospital.com/storage/images/1699177566.png",
+    "name": "Dr. Md. Ashraful Islam",
+    "education": "MBBS, FCPS",
+    "speciality": "Dermatologist",
+    "experience": "17 years",
+    "registration_number": "REG10010",
+    "designation": "Assistant Professor",
+    "workplace": "HealthCare Plus",
+    "fee": 40,
+    "availability_section": [
+      "Wednesday",
+      "Friday",
+      "Monday",
+      "Tuesday"
+    ],
+    "available": true
+  },
+  {
+    "id": 11,
+    "image": "https://www.squarehospital.com/storage/images/1716367107.png",
+    "name": "Dr. Major (Retd) Zeena Salwa",
+    "education": "MBBS, FCPS",
+    "speciality": "Dermatologist",
+    "experience": "14 years",
+    "registration_number": "REG10011",
+    "designation": "Senior Consultant",
+    "workplace": "Greenland Hospital",
+    "fee": 24,
+    "availability_section": [
+      "Sunday",
+      "Monday",
+      "Friday"
+    ],
+    "available": true
+  },
+  {
+    "id": 12,
+    "image": "https://www.squarehospital.com/storage/images/1704797838.png",
+    "name": "Brig Gen Prof. Dr. Md Abdul Bari Mollick",
+    "education": "MBBS, FCPS",
+    "speciality": "Cardiologist",
+    "experience": "5 years",
+    "registration_number": "REG10012",
+    "designation": "Medical Officer",
+    "workplace": "Medico Center",
+    "fee": 42,
+    "availability_section": [
+      "Sunday",
+      "Saturday",
+      "Thursday",
+      "Monday"
+    ],
+    "available": false
+  },
+  {
+    "id": 13,
+    "image": "https://www.squarehospital.com/storage/images/1715597946.png",
+    "name": "Prof. Dr. Md. Siraj Uddin",
+    "education": "MBBS, FCPS",
+    "speciality": "Neurologist",
+    "experience": "8 years",
+    "registration_number": "REG10013",
+    "designation": "Senior Consultant",
+    "workplace": "HealthCare Plus",
+    "fee": 53,
+    "availability_section": [
+      "Friday",
+      "Sunday",
+      "Saturday",
+      "Monday",
+      "Wednesday"
+    ],
+    "available": false
+  },
+  {
+    "id": 14,
+    "image": "https://www.squarehospital.com/storage/images/1744433118.png",
+    "name": "Dr. Sadiqa Tuqan",
+    "education": "MBBS, FCPS",
+    "speciality": "Orthopedic",
+    "experience": "12 years",
+    "registration_number": "REG10014",
+    "designation": "Assistant Professor",
+    "workplace": "HealthCare Plus",
+    "fee": 64,
+    "availability_section": [
+      "Tuesday",
+      "Saturday",
+      "Thursday",
+      "Sunday"
+    ],
+    "available": true
+  }
+]
